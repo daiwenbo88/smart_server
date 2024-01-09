@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>png/louvers_fence_off.png</file>
+        <file>png/louvers_fence_on.png</file>
+        <file>png/louvers_leaf_off.png</file>
+        <file>png/louvers_leaf_on.png</file>
+        <file>png/background.png</file>
+        <file>png/lamp_off.png</file>
+        <file>png/lamp_on.png</file>
+        <file>png/fan_off.png</file>
+        <file>png/fan_on.png</file>
+        <file>png/ac_speed_off.png</file>
+        <file>png/ac_speed_on.png</file>
+        <file>png/ac_off.png</file>
+        <file>png/ac_line_off.png</file>
+        <file>png/ac_line_on.png</file>
+        <file>png/ac_on.png</file>
+        <file>png/ac_mode_off.png</file>
+        <file>png/ac_mode_on.png</file>
+        <file>png/up_off.png</file>
+        <file>png/up_on.png</file>
+        <file>png/header.png</file>
+        <file>png/ac_dry_unchecked.png</file>
+        <file>png/ac_dry_checked.png</file>
+        <file>png/ac_mid_unchecked.png</file>
+        <file>png/ac_mid_checked.png</file>
+        <file>png/ac_high_unchecked.png</file>
+        <file>png/ac_high_checked.png</file>
+        <file>png/ac_wind_unchecked.png</file>
+        <file>png/ac_wind_checked.png</file>
+        <file>png/ac_low_unchecked.png</file>
+        <file>png/ac_low_checked.png</file>
+        <file>png/ac_xiao_unchecked.png</file>
+        <file>png/ac_xiao_checked.png</file>
+        <file>png/ac_cold_unchecked.png</file>
+        <file>png/ac_cold_checked.png</file>
+        <file>png/ac_auto_unchecked.png</file>
+        <file>png/ac_auto_checked.png</file>
+        <file>png/down_off.png</file>
+        <file>png/down_on.png</file>
+        <file>png/header2.png</file>
+    </qresource>
+</RCC>
